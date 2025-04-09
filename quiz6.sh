@@ -1,3 +1,4 @@
 #!/bin/sh
+mkdir newLocation
 touch toBeMoved.txt
-cd/newLocation/etc/systemd
+mv toBeMoved.txt newLocation/toBeMoved.txt
