@@ -1,2 +1,3 @@
 #!/bin/sh
-cd ~nbuntu/cd~
+cd ~
+pwd
