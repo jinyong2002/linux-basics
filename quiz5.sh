@@ -1,3 +1,3 @@
 #!/bin/sh
 touch origininal.txt
-cp copy_of_original.txt
+cp original.txt copy_of_original.txt
